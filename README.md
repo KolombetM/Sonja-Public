@@ -1,5 +1,7 @@
 # Sonja — artist's gallery and shop
 
+**Live site: [zakariansonja.com](https://zakariansonja.com)**
+
 Website of Sonja, an artist based in Marseille, France. Her work is expressive and close to art brut. She works in India ink, pen, pencil, acrylic and gouache, on paper, canvas and plywood. Visitors can browse and buy her original works, along with hand-painted merch: tote bags and T-shirts.
 
 The site is available in three languages (French, English, Russian). It takes payments online, works out shipping and VAT on its own, and sends emails to both the buyer and the artist. Sonja manages all of the content herself through a private admin area.
